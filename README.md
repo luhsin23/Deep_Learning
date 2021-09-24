@@ -1,1 +1,1 @@
-### This file contains the jupyter notebook for the deep learning project
+### This archive contains the generative adversarial network (GAN) model for of human face generaion
